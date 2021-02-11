@@ -1,3 +1,5 @@
 Device Management is a function of the operating system. This nifty utility keeps track of every known device on a system both input and output. It also allocates devices in efficient ways. When no longer required this funtion deallocates devices as needed.
 
 File Management a function of operating systems offer navigiation abilitiy of file systems. Using directories and organizing by files is a key feature of this function. Tracking information location changes and if correcting invalid file paths are often the best safety features of this operating system function. Thanks file management.
+
+Lastly, today I want to give much love to Error dectecting aids. These keep track of time and resoruces used by carious tasks and users on the operating system. The main point of this function is to detect, avoid and help the fixers of malfunctions that the computer system experiences.
