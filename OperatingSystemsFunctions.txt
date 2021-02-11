@@ -1,0 +1,1 @@
+Device Management is a function of the operating system. This nifty utility keeps track of every known device on a system both input and output. It also allocates devices in efficient ways. When no longer required this funtion deallocates devices as needed.
